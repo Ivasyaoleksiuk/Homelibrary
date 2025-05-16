@@ -1,4 +1,3 @@
-# models/book.py
 from models.material import Material
 
 
